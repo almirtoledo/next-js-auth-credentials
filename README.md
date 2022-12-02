@@ -1,4 +1,4 @@
-# Nex Auth credentials authorization for external api
+# Next Auth credentials authorization for external api
 ## Getting Started
 
 First, run the development server:
